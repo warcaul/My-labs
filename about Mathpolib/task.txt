@@ -1,0 +1,1 @@
+Use the Matplotlib library to create a scatter plot, line graph and histogram.

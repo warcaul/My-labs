@@ -1,0 +1,10 @@
+Task
+1. Upload a cell image
+2. Change the color space of the image to LAB and HSV and output the new image to
+screen. Save image for report.
+3. Get a binary image. Display and save the image for the report.
+4. Get the borders of the object in the image in different colors. Display and save
+image for report.
+5. Divide the image into three layers (red, blue, green) and display them on the screen. Save
+image for report.
+6. Using the resulting code to calculate the surface area of the cell (cells).

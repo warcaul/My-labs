@@ -1,0 +1,13 @@
+task 1: 1) the name of the class; 2) a constructor that accepts two variables (attributes) x and y; 3) method (function), which returns the calculated value of the function under different conditions. 4) outside the class - a request to enter the values ​​of the variables x and y; 5) creating an instance of a class (class object); 6) call the class method and output the result.
+
+task 2: 1) the name of the class; 2)
+constructor that accepts three variables (attributes) a, b, h 3) method (function), which displays the calculated value of the function on the segment [a; b] with step h. 4) outside the classroom
+- request to enter the values ​​of variables a, b, h; 5) creation
+a class instance (class object); 6) call the class method. * to obtain an additional point (within 55 allocated for practical classes) to make changes to the constructor and the method of the class so that the designer left two attributes - a and b, and the method took h as an argument. H1 and h2 are fed to the program input and are calculated
+for the initialized instance of the state class at h1
+and h2.
+
+task 3: 1) the name of the class; 2) constructor,
+which takes one variable (attribute) n; 3) method (function),
+which returns the sum of the members of the series from 1 to n inclusive. 4) for
+outside the class - a request to enter the value of the variable n; 5) creating an instance of a class (class object); 6) call the class method and output the result.

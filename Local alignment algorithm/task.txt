@@ -1,0 +1,3 @@
+Local alignment algorithm and its implementation on
+Python. Modification of the global alignment algorithm. Check and search
+bugs in the program.

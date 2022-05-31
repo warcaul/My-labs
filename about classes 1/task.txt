@@ -1,0 +1,16 @@
+Experimental data in the field of biotechnology are given. Make your program the user's choice:
+1) Requested the input of experimental data from the keyboard
+2) Downloaded experimental data from a file
+Also, make your program the user's choice:
+1) Output the results of the calculation to the console in the form of:
+list of experimental data, the average value of the measured value
+experimentally, and the root mean square error of the mean.
+2) Recorded the results of the calculation in a file in the form: list
+experimental data, the average value of the measured value
+experimentally, and the root mean square error of the mean.
+The code must include:
+1) Lines of documentation, detailed comments
+2) Class, which includes two methods of input
+experimental data (keyboard and file) and input results
+calculation (print to console and write to file)
+3) A class that has a method of calculating the result.
